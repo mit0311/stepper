@@ -1,0 +1,34 @@
+.addEducation {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-bottom: 20px;
+}
+.editIcon {
+  color: var(--darkBlue);
+  margin-right: 0px;
+}
+.deleteIcon {
+  color: var(--red);
+}
+.submitIcon {
+  color: var(--green);
+  margin-right: 0px;
+}
+.clearIcon {
+  color: var(--red);
+  margin-right: 0px;
+}
+.deleteIcon {
+  color: var(--red);
+}
+.educationCell {
+  text-align: center;
+}
+.educationContainer {
+  .MuiButtonBase-root {
+    background-color: var(--purple);
+    float: right;
+    margin-bottom: 15px;
+    text-transform: none;
+  }
+}

@@ -1,0 +1,59 @@
+.css-19r6kue-MuiContainer-root {
+  margin-top: 50px;
+}
+.MuiContainer-root {
+  .tableContainer {
+    border: 2px solid var(--white);
+    box-shadow: 0 7px 8px -4px var(--horizontalShadow), 0 12px 17px 2px var(--verticleShadow),
+      0 5px 22px 4px var(--spreadShadow);
+  }
+}
+.tableHeaderBox {
+  text-align: center;
+}
+.MuiTableCell-root {
+  .profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+  }
+}
+.addEmployee {
+  .MuiButtonBase-root {
+    background-color: #673ab7;
+    margin-bottom: 20px;
+    float: right;
+    text-transform: none
+  }
+  .MuiSvgIcon-root {
+    margin-right: 5px;
+  }
+}
+.resumeIcon {
+  color: var(--yellowLight);
+}
+.deleteIcon {
+  color: var(--red);
+}
+.editIcon {
+  color: var(--purple);
+}
+.MuiTypography-root {
+  .cancelButton {
+    margin-right: 15px;
+    text-transform: none
+  }
+  .deleteButton {
+    background-color: green;
+    text-transform: none;
+  }
+}
+.imgPreview {
+  width: 250px;
+  height: 210px;
+  margin-left: 70px;
+}
+.MuiTableCell-root{
+.profileIcon{
+  font-size: 50px ;
+}}
